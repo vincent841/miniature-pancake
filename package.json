@@ -1,0 +1,27 @@
+{
+  "name": "miniature-pancake",
+  "version": "0.0.1",
+  "description": "nothing to tell",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincent841/miniature-pancake.git"
+  },
+  "author": "Jinwon <41100208+vincent841@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "bugs": {
+    "url": "https://github.com/vincent841/miniature-pancake/issues"
+  },
+  "homepage": "https://github.com/vincent841/miniature-pancake#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon ./start.js"
+  },
+  "keywords": []
+}
